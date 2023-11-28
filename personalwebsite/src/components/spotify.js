@@ -1,11 +1,7 @@
 // window.js
 import React from "react";
 import { Layout, Button, Card, Typography } from "antd";
-import {
-  CloseCircleOutlined,
-  MinusCircleOutlined,
-  GithubOutlined,
-} from "@ant-design/icons";
+import { CloseCircleOutlined, MinusCircleOutlined } from "@ant-design/icons";
 import "./App.css";
 
 const { Header, Content } = Layout;
